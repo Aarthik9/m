@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    h1{
+        color: red;
+        text-align: center;
+        text-decoration-color: brown;
+    
+    }
+    h2{
+        color: white;
+        text-align: center;
+        text-shadow: 100cqb;
+        -webkit-text-fill-color: bisque;
+        font-weight: 500;
+        font-variant-numeric: ordinal;
+        scroll-padding-block-end;direction: inherit;
+
+    }
+    h3{
+        color: white;
+        text-align: center;
+    }
+    .gallery{
+        display: inline-block;
+    gap: 40px; 
+    padding: 20px;
+  }
+  
+  .gallery img {
+    border: 2px solid #ccc;
+    border-radius: 10px;
+  }
+    }
+ 
+   
+      
+
+
+
+}
